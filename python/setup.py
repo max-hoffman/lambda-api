@@ -16,6 +16,7 @@ def main():
         name="api",
         version="0.1",
         package_dir={"api": "src"},
+        packages=["api"],
         package_data={
             "": ["*.txt", "*.rst"],
         },
