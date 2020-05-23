@@ -1,10 +1,10 @@
 # Lambda API site
 
 * Client
-* [DB](./db/README.md)]
-* [Python](./python/README.md)]
+* [DB](./db/README.md)
+* [Python](./python/README.md)
 * Scripts
-* [Terraform](./terraform/README.md)]
+* [Terraform](./terraform/README.md)
 
 # Dev
 
