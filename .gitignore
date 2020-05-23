@@ -1,0 +1,11 @@
+terraform/**/*.backup
+terraform/**/.terraform
+python/test/__pycache__
+python/src/__pycache__
+python/Quarantoned.egg-info/
+python/zip/
+zip/
+*.pyc
+*.zip
+tmp
+db/quarantoned.sql
